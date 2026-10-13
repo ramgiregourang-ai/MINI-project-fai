@@ -1,0 +1,19 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Streamlit local state & caches
+.streamlit/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
